@@ -1,17 +1,68 @@
-<h1 align="center">Hi 👋, I'm M.Huzaifa khan</h1>
-<h3 align="center">A passionate full stack web developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Huzaifa Khan</h1>
+<h3 align="center">Full-Stack Web Developer | React • Next.js • Node • MongoDB</h3>
 
-- 🔭 I’m currently working on **Tiny URl**
+---
 
-- 🌱 I’m currently learning **Next.js**
+🚀 Passionate about building fast, scalable, and modern web applications.  
+💡 I love turning ideas into real-world products.  
+🌍 Based in Pakistan — working with global technologies.
 
-- 🤝 I’m looking for help with **Next.js**
+---
 
-- 👨‍💻 All of my projects are available at [https://portfolioo-delta-rouge.vercel.app/](https://portfolioo-delta-rouge.vercel.app/)
+### 🧑‍💻 About Me
 
-- 💬 Ask me about **JS,HTML,CSS,EXPRESS,React,MongoDb,Express**
+- 🔭 Currently working on **React**
+- 🌱 Learning **Next.js, Express & MongoDB**
+- 💬 Ask me about **JavaScript, React, Node.js, APIs, Databases**
+- 🎯 Goal: Become a **top-tier full-stack engineer**
+- 🌐 Portfolio:  **https://portfolioo-delta-rouge.vercel.app/**
 
-- 📫 How to reach me **https://portfolioo-delta-rouge.vercel.app/**
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+- React
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+
+**Tools**
+- Git & GitHub
+- Postman
+- Docker
+- Vercel
+- GCP
+- VS Code
+
+---
+
+### 🚀 Current Focus
+Building:
+- Scalable APIs  
+- Authentication systems  
+- Real-world full-stack projects  
+- Portfolio-ready applications  
+
+---
+
+### 📬 Connect With Me
+- 🌐 Portfolio:  **https://portfolioo-delta-rouge.vercel.app/**
+- 🐙 GitHub: https://github.com/huzaifakhan42732-creator
+
+---
+
+### ⚡ Fun Fact
+> I believe consistency beats talent — and I code every day 💻🔥
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
